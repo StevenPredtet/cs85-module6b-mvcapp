@@ -1,0 +1,16 @@
+{
+    "name": "kirby/module6a_mvc_project",
+    "description": "PHP Fitness Tracker with MVC",
+    "autoload": {
+        "psr-4": {
+            "Kirby\\Module6aMvcProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Steven P",
+            "email": "s.predtet.323@gmail.com"
+        }
+    ],
+    "require": {}
+}
